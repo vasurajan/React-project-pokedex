@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+![React-project-pokedex](https://user-images.githubusercontent.com/63305945/95091422-110a7280-0744-11eb-8c58-8b4422ee4f37.gif)
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
